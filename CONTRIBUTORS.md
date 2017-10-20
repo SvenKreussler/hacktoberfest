@@ -1644,3 +1644,8 @@ Noida
 - Place: London, England
 - Bio: Management Consultant
 - Github: [widgyrogers] (https://github.com/widgyrogers)
+
+#### Name: [Sven Kreussler](https://github.com/svenkreussler)
+- Place: Berlin, Berlin, Germany
+- Bio: Programmer, Student
+- Github: [svenkreussler] (https://github.com/svenkreussler)
